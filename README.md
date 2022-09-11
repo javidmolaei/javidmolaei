@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm javid molaei</h1>
 <h3 align="center">I am a full-stack software engineer from Iran. I love programming. As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javidmolaei" alt="javidmolaei" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javidmolaei" alt="javidmolaei" /></a> </p> -->
 
 - 🔭 I’m currently working on [NRDC(Naji Research and Development Company)](police-man.ir)
 
